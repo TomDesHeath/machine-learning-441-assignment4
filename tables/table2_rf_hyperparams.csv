@@ -1,0 +1,5 @@
+Estimators (M),Max Depth,Subspace Features,Train Acc,Val Acc,Val Macro F1,OOB Error,Fit Time (s)
+10,10,sqrt(D),0.7365,0.7187,0.4682,0.2887,3.92
+50,10,sqrt(D),0.7381,0.7200,0.4886,0.2695,6.76
+100,15,sqrt(D),0.7865,0.7377,0.4999,0.2389,16.16
+200,20,sqrt(D),0.8240,0.7517,0.5078,0.1992,36.43

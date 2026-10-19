@@ -1,0 +1,11 @@
+Class ID,Class Name,Sample Count,Percentage (%),Description
+0,Normal,7290,36.45%,Normal Background Traffic
+1,Reconnaissance,1078,5.39%,Attack Cyber Threat (Reconnaissance)
+2,Backdoor,196,0.98%,Attack Cyber Threat (Backdoor)
+3,DoS,1282,6.41%,Attack Cyber Threat (DoS)
+4,Exploits,3434,17.17%,Attack Cyber Threat (Exploits)
+5,Analysis,195,0.97%,Attack Cyber Threat (Analysis)
+6,Fuzzers,1835,9.18%,Attack Cyber Threat (Fuzzers)
+7,Worms,11,0.06%,Attack Cyber Threat (Worms)
+8,Shellcode,125,0.62%,Attack Cyber Threat (Shellcode)
+9,Generic,4554,22.77%,Attack Cyber Threat (Generic)
