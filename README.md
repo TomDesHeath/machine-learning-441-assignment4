@@ -91,21 +91,3 @@ To compile the LaTeX PDF report:
 pdflatex assignment_4/24888923RW441assignment4.tex
 pdflatex assignment_4/24888923RW441assignment4.tex
 ```
-
----
-
-## 5. Submission Packaging Protocol
-
-To create the submission ZIP archive:
-
-```bash
-zip -r 24888923RW441assignment4.zip \
-    24888923RW441assignment4.pdf \
-    24888923RW441assignment4.tex \
-    run_all.py \
-    README.md \
-    src/ \
-    datasets/ \
-    figures/ \
-    tables/
-```
